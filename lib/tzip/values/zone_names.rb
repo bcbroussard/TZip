@@ -1,12 +1,12 @@
 module TZip
   ZONE_NAMES = {
+    eastern:  "Eastern Time (US & Canada)",
+    central:  "Central Time (US & Canada)",
+    mountain: "Mountain Time (US & Canada)",
+    pacific:  "Pacific Time (US & Canada)",
     hawaii:   "Hawaii",
     alaska:   "Alaska",
-    pacific:  "Pacific Time (US & Canada)",
-    mountain: "Mountain Time (US & Canada)",
     arizona:  "Arizona",
-    central:  "Central Time (US & Canada)",
-    eastern:  "Eastern Time (US & Canada)",
     indiana:  "Indiana (East)"
   }
 end
